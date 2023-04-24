@@ -1,0 +1,4 @@
+Calcular MDC
+18
+Escreva uma função que receba dois naturais x,y e retorne
+o MDC entre eles. 
