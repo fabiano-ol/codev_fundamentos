@@ -1,0 +1,5 @@
+- Como percorrer as duas listas de forma que a cada iteração
+  seja avaliado se o número em questão é o positivo ou negativo?
+  
+  Como realizar a contagem dos números positivos e negativos em
+  cada iteração?

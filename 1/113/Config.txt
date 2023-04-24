@@ -1,0 +1,5 @@
+Contar positivos e negativos
+13
+Escreva uma função que receba de entrada uma lista de inteiros,
+e retorne uma tupla (qp, qn), onde qp e qn representam a
+quantidade de inteiros positivos e negativos, respectivamente.
