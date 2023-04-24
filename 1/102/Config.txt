@@ -1,0 +1,9 @@
+Formatação de hora
+2
+Escreva um procedimento que receba uma tupla com dois números
+(h, m), representando os números apontados pelos ponteiros
+respectivamente de hora e minuto de um relógio dividido em
+números de 1 a 12, e escreva os dois possíveis horários para
+aquele dia, começando do mais cedo.
+Ex: se (h,m) = (9,1), então deve-se escrever na tela
+"09:05 / 21:05".

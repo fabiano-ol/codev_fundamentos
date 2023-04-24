@@ -1,0 +1,7 @@
+- Como realizar a comparação entre o valor desejado e cada
+  caractere contido em x?
+  
+  O que devemos fazer para conseguir percorrer caractere a
+  caractere de uma variável que é inteira?
+  
+  

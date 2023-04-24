@@ -1,0 +1,6 @@
+Calcular segundos decorridos
+3
+Escreva uma função que receba duas tuplas (h1, m1) e
+(h2,m2), representando dois horários
+(0 ≤ h1,h2 ≤ 23; 0 ≤ m1,m2 ≤ 59), e retorne o número de
+segundos que há entre os dois. 

@@ -1,0 +1,8 @@
+- Como formatar os valores números fornecidos pela função
+  de forma que atenda as necessidades do exercício?
+  
+  Como concatenar as informações para que toda resposta do
+  exercício seja dada em apenas uma linha?
+  
+  Atenção no caso da hora igual a 12, pois o horário mais
+  cedo a ela associado é o zero hora.

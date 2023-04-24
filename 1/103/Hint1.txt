@@ -1,0 +1,6 @@
+- Como podemos obter a quantidade total de segundos de um determinado
+  horário (h,m) com a primeira hora do relógio (00:00)?
+  
+  Uma vez obtido o total de segundos de um horário com a
+  primeira hora do relógio, como podemos descobrir quantos
+  segundos existem entre esses dois horários?
