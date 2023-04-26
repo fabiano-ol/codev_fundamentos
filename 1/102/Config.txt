@@ -1,5 +1,5 @@
 Formatação de hora
-2
+1
 Escreva um procedimento que receba uma tupla com dois números
 (h, m), representando os números apontados pelos ponteiros
 respectivamente de hora e minuto de um relógio dividido em
