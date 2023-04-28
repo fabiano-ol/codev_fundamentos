@@ -1,0 +1,8 @@
+Equação do segundo grau
+1
+Escreva uma função que receba os valores a,b,c representando os
+coeficientes da equação ax^2 + bx + c = 0, e retorne uma tupla
+(r1,r2) representando as duas possíveis raízes dessa equação.
+Caso haja apenas uma raiz, a tupla retornada deve estar no
+formato (r1, None). Caso não haja raízes, o retorno deve ser
+(None, None).
