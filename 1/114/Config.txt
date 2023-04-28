@@ -1,0 +1,6 @@
+Equação de primeiro grau
+1
+Escreva uma função que receba valores a,b representando os
+coeficientes da equação ax + b = 0, e retorne um real r
+representando a raiz dessa equação. Caso não haja raízes,
+deve ser retornado None.
