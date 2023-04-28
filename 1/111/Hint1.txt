@@ -1,0 +1,10 @@
+- Na física, qual tipo de movimento é caracterizado pela
+  descrição do enunciado? 
+  
+  Existe alguma fórmula para calcular a variação da 
+  posição, dados os valores de entrada?
+  
+- Ao sabermos a posição final e inicial de um objeto, como
+  computar a distância percorrida?
+  
+  

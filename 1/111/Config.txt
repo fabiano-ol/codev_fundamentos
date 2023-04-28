@@ -1,0 +1,6 @@
+Calcular distância
+1
+Escreva uma função que receba a velocidade inicial (em km/h) de
+certo objeto, sua aceleração (em km/h^2), e real t, e retorne a
+quantidade de quilômetros percorrida por tal objeto após t horas.
+Assuma que a aceleração e a velocidade são valores não negativos.
