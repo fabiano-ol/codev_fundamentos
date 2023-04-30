@@ -1,4 +1,4 @@
-Equação do segundo grau
+Raiz de equação do segundo grau
 1
 Escreva uma função que receba os valores a,b,c representando os
 coeficientes da equação ax^2 + bx + c = 0, e retorne uma tupla

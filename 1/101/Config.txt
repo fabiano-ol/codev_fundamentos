@@ -1,4 +1,4 @@
-Operação arimética
+Operação aritmética
 1
 Escreva uma função que, dados dois números x, y, e uma operação 
 op (op ∈ {"+", "-", "/", "x"}), retorne o resultado "x op y". 
