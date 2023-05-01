@@ -1,0 +1,5 @@
+Inverter uma cadeia
+1
+Escreva uma função que receba um uma cadeia (string) L, e retorne
+uma cadeia reversa de L (isto é, a cadeia formada pela leitura de
+L do fim para o início). 
