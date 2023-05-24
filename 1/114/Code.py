@@ -1,19 +1,19 @@
 .:75Hj1*YH1587:<H-6<:),)
 
 ,-.H:)1BP)TH*Qb
-HHHHKH+7,->
-HHHH1.H)HeeHXb
-HHHHHHHH:-<=:6Hv76-
-HHHH-4;-b
-HHHHHHHH@HeHU*W)
-HHHHHHHH:-<=:6H@
-HHHHKH+7,->
+	KH+7,->
+	1.H)HeeHXb
+		:-<=:6Hv76-
+	-4;-b
+		@HeHU*W)
+		:-<=:6H@
+	KH+7,->
 
 ?014-HP|:=-Qb
-HHHH<:Ab
-HHHHHHHH)HeH16<P-6<:),)PQQ
-HHHHHHHH*HeH16<P-6<:),)PQQ
-HHHHHHHH8:16<P:)1BP)TH*QQ
-HHHH-@+-8<b
-HHHHHHHH*:-)3
+	<:Ab
+		)HeH16<P-6<:),)PQQ
+		*HeH16<P-6<:),)PQQ
+		8:16<P:)1BP)TH*QQ
+	-@+-8<b
+		*:-)3
 

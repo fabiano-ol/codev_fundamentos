@@ -2,18 +2,18 @@
 .:75H5)<0H1587:<H;9:<
 
 ,-.H-0'8:157P@Qb
-HHHHKH+7,->
-HHHH.7:H1H16H:)6/-PZTH16<P;9:<P@QQSYQb
-HHHHHHHH1.H@M1HeeHXb
-HHHHHHHHHHHH:-<=:6Hn)4;-
-HHHH:-<=:6HP@feZQ
-HHHHKH+7,->
+	KH+7,->
+	.7:H1H16H:)6/-PZTH16<P;9:<P@QQSYQb
+		1.H@M1HeeHXb
+			:-<=:6Hn)4;-
+	:-<=:6HP@feZQ
+	KH+7,->
 
 ?014-HP|:=-Qb
-HHHH<:Ab
-HHHHHHHH@HeH16<P-6<:),)PQQ
-HHHH-@+-8<b
-HHHHHHHH*:-)3
-HHHH8:16<P-0'8:157P@QQ
+	<:Ab
+		@HeH16<P-6<:),)PQQ
+	-@+-8<b
+		*:-)3
+	8:16<P-0'8:157P@QQ
 
 

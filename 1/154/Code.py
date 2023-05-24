@@ -2,33 +2,33 @@
 
 KH+7,->:-57>-
 ,-.H,1;<8-:+7::1,)P>XT)T<Qb
-HHHH:-<=:6HP>XR<QHSHP)R<R<QWZ
+	:-<=:6HP>XR<QHSHP)R<R<QWZ
 KH+7,->:-57>-
 
 ,-.H+)4+',1;<P>TH)TH<Qb
-HHHHKH+7,->
-HHHH1.H)feXb
-HHHHHHHH:-;8HeH,1;<8-:+7::1,)P>T)T<Q
-HHHH-4;-b
-HHHHHHHHK~.HeH~7HSH)<
-HHHHHHHH<8HeHU>W)
-HHHHHHHH1.H<8HfeH<b
-HHHHHHHHHHHH:-;8HeH,1;<8-:+7::1,)P>T)T<Q
-HHHHHHHH-4;-b
-HHHHHHHHHHHHK~.HeH~7HSHZH)Hl-4<){cHl-4<){HeH,YcH~.HeHX
-HHHHHHHHHHHH,YHeHUP>R>QWPZR)Q
-HHHHHHHHHHHH,ZHeH,1;<8-:+7::1,)PXTU)T<U<8Q
-HHHHHHHHHHHH:-;8HeH,YS,Z
-HHHH:-<=:6H:-;8
-HHHHKH+7,->
+	KH+7,->
+	1.H)feXb
+		:-;8HeH,1;<8-:+7::1,)P>T)T<Q
+	-4;-b
+		K~.HeH~7HSH)<
+		<8HeHU>W)
+		1.H<8HfeH<b
+			:-;8HeH,1;<8-:+7::1,)P>T)T<Q
+		-4;-b
+			K~.²HeH~7²HSHZH)Hl-4<){cHl-4<){HeH,YcH~.HeHX
+			,YHeHUP>R>QWPZR)Q
+			,ZHeH,1;<8-:+7::1,)PXTU)T<U<8Q
+			:-;8HeH,YS,Z
+	:-<=:6H:-;8
+	KH+7,->
 
 ?014-HP|:=-Qb
-HHHH<:Ab
-HHHHHHHH>HeH.47)<P-6<:),)PQQ
-HHHHHHHH)HeH.47)<P-6<:),)PQQ
-HHHHHHHH<HeH.47)<P-6<:),)PQQ
-HHHH-@+-8<b
-HHHHHHHH*:-)3
+	<:Ab
+		>HeH.47)<P-6<:),)PQQ
+		)HeH.47)<P-6<:),)PQQ
+		<HeH.47)<P-6<:),)PQQ
+	-@+-8<b
+		*:-)3
 
-HHHH8:16<P+)4+',1;<P>TH)TH<QQ
+	8:16<P+)4+',1;<P>TH)TH<QQ
 

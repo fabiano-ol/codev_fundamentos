@@ -2,25 +2,25 @@
 
 KH+7,->:-57>-
 ,-.H5,+P@THAQb
-HHHH?014-HAHfHXb
-HHHHHHHH:HeH@MA
-HHHHHHHH@HeHA
-HHHHHHHHAHeH:
-HHHH:-<=:6H@
+	?014-HAHfHXb
+		:HeH@MA
+		@HeHA
+		AHeH:
+	:-<=:6H@
 KH+7,->:-57>-
 
 ,-.H:-,=BP.:)+)7Qb
-HHHHKH+7,->
-HHHH,1>1;7:HeH5,+P.:)+)7#X%TH.:)+)7#Y%Q
-HHHH:-;8HeHP.:)+)7#X%WW,1>1;7:TH.:)+)7#Y%WW,1>1;7:QH
-HHHH:-<=:6H:-;8
-HHHHKH+7,->
+	KH+7,->
+	,1>1;7:HeH5,+P.:)+)7#X%TH.:)+)7#Y%Q
+	:-;8HeHP.:)+)7#X%WW,1>1;7:TH.:)+)7#Y%WW,1>1;7:QH
+	:-<=:6H:-;8
+	KH+7,->
 
 ?014-HP|:=-Qb
-HHHH<:Ab
-HHHHHHHH8HeH16<P-6<:),)PQQ
-HHHHHHHH9HeH16<P-6<:),)PQQ
-HHHHHHHH.:)+)7HeHP8TH9Q
-HHHHHHHH8:16<P:-,=BP.:)+)7QQ
-HHHH-@+-8<b
-HHHHHHHH*:-)3
+	<:Ab
+		8HeH16<P-6<:),)PQQ
+		9HeH16<P-6<:),)PQQ
+		.:)+)7HeHP8TH9Q
+		8:16<P:-,=BP.:)+)7QQ
+	-@+-8<b
+		*:-)3

@@ -1,18 +1,18 @@
 .:75Hj1*YH1587:<H-6<:),)
 
 ,-.H+)4+',1;<P>TH)TH<Qb
-HHHHKH+7,->
-HHHH:-;8HeHPP>R<QHSHP)R<R<QWZQ
-HHHH:-<=:6H:-;8
-HHHHKH+7,->
+	KH+7,->
+	:-;8HeHPP>R<QHSHP)R<R<QWZQ
+	:-<=:6H:-;8
+	KH+7,->
 
 ?014-HP|:=-Qb
-HHHH<:Ab
-HHHHHHHH>HeH.47)<P-6<:),)PQQ
-HHHHHHHH)HeH.47)<P-6<:),)PQQ
-HHHHHHHH<HeH.47)<P-6<:),)PQQ
-HHHH-@+-8<b
-HHHHHHHH*:-)3
+	<:Ab
+		>HeH.47)<P-6<:),)PQQ
+		)HeH.47)<P-6<:),)PQQ
+		<HeH.47)<P-6<:),)PQQ
+	-@+-8<b
+		*:-)3
 
-HHHH8:16<P+)4+',1;<P>TH)TH<QQ
+	8:16<P+)4+',1;<P>TH)TH<QQ
 
