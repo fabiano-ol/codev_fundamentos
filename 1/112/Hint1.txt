@@ -1,0 +1,22 @@
+- Considere a preparação de uma lista de listas (uma matriz M),
+  cada elemento desta matriz representará um tipo de medida 
+  (comprimento, massa e volume), e cada sublista conterá as 
+  unidades daquele tipo organizadas em ordem crescente.
+  
+  Por exemplo, se a primeira lista de M corresponder ao tipo
+  comprimento, então tal primeira lista de M será 
+  
+  ["mm", "cm", "dm", "m", "dam", "hm", "km"]
+  
+  Deve-se percorrer M e encontrar em qual lista está contida
+  a primeira unidade passada. Seja indice1 a posição da lista em 
+  que foi encontrada. Agora, percorre-se novamente essa lista de 
+  unidades onde a primeira unidade foi encontrada à procura da 
+  segunda. Seja indice2 a posição em que essa segunda foi 
+  encontrada.
+  
+  Caso uma das unidades não seja encontrada, a resposta deve ser 0.
+  Caso contrário, se x é o valor a ser convertido, qual expressão 
+  resulta no valor convertido, em função de x, indice1 e indice2?
+  
+ 
