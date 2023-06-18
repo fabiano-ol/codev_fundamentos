@@ -1,0 +1,15 @@
+Subtração de listas
+1
+Escreva uma função que receba duas listas x, y, cada uma com os
+algarismos da representação decimal de certo número (x[0] é o
+dígito menos significativo da representação), e retorne uma
+lista com os algarismos da representação decimal da subtração
+de tais números. 
+
+Ex: se x = [5, 2, 4]   (representando o número 425) 
+       y = [9, 8]      (representando o número  89) 
+    então o retorno deve ser 
+           [6, 3, 3]   (representando o número 336 = 425-89). 
+
+Assuma que o primeiro número será maior ou igual ao segundo.
+
