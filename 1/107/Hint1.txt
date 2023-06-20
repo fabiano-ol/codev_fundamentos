@@ -1,0 +1,11 @@
+- De maneira geral, o algoritmo deve reproduzir o processo de
+  multiplicação manual aprendido na escola. Isto é, devemos
+  considerar os números representados pelas listas x e y dígito
+  a dígito, do menos significativo ao mais signiticativo (Unidade,
+  dezena, centena, etc).
+
+  Para tanto, pode-se utilizar o comando iterativo para iterar
+  sobre cada um dos dígitos. Quantas iterações serão necessárias?
+  
+  Qual cuidado devemos tomar quando estamos multiplicando dígito a
+  dígito?
