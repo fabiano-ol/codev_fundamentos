@@ -1,4 +1,4 @@
-Determinação da progressão aritmética
+Determinação da progressão geométrica
 1
 Elabore uma função que receba três naturais a, q, n, e retorne
 uma lista com os n primeiros elementos de uma progressão geométrica
