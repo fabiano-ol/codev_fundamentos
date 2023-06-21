@@ -1,14 +1,16 @@
 - De maneira geral, o algoritmo deve reproduzir o processo de
   multiplicação manual aprendido na escola. Isto é, devemos
   considerar os números representados pelas listas x e y dígito
-  a dígito, do menos significativo ao mais signiticativo (Unidade,
+  a dígito, do menos significativo ao mais signiticativo (unidade,
   dezena, centena, etc).
-
-  Para tanto, pode-se utilizar o comando iterativo para iterar
-  sobre cada um dos dígitos. Quantas iterações serão necessárias?
   
-  Qual cuidado devemos tomar quando estamos multiplicando dígito a
-  dígito?
+  Para tanto, considere uma iteração sobre uma variável i = 0, 
+  1, ..., len(y), cada iteração correspondendo a multiplicação
+  do número x pelo número y[i]. Um exercício anterior pode ajudar
+  a realizar essa multiplicação.
   
-  Qual outra operação matemática precisamos para executar o algoritmo
-  da multiplicação?
+  Note que cada multplicação dessas produzirá uma parcela do
+  somatório final que ocorre no processo manual da multiplicação.
+  Considere utilizar um outro exercício anterior para acumular o
+  valor das parcelas dessa soma.
+  
