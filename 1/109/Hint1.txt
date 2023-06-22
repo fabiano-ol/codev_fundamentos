@@ -1,14 +1,26 @@
 - De maneira geral, o algoritmo deve reproduzir o processo de
-  divisão manual aprendido na escola. Isto é, devemos considerar
-  os números representados pelas listas x e y dígito a dígito, do
-  menos significativo ao mais signiticativo (Unidade, dezena,
-  centena, etc).
+  divisão manual aprendido na escola, descrito a seguir. 
 
-  Para tanto, pode-se utilizar o comando iterativo para iterar
-  sobre cada um dos dígitos. Quantas iterações serão necessárias?
+  No processo da divisão, além de x,y, há duas grandezas a
+  serem mantidas: o resto e o quociente. Esses números serão
+  representados por listas, inicialmente vazias.
   
-  Qual cuidado devemos tomar quando estamos dividindo dígito a
-  dígito?
+  Cada iteração deve produzir um novo algarismo no quociente.
+  Esse novo algarismo será o menos significativo dentre os 
+  já existentes no quociente. Ele é produzido da seguinte
+  maneira. 
   
-  Quais outros tipos de operações matemáticas precisamos para
-  executar o algoritmo da divisão?
+  Em primeiro lugar, acrescenta-se no resto o próximo algarismo
+  ainda não processado do dividendo. Esse novo algarismo será o
+  menos significativo dentre os já existentes no resto. Em seguida,
+  itera-se sobre uma variável j=1,...,10. Para cada valor de j,
+  computa-se y x j (para tanto, emprega-se o algoritmo de 
+  multiplicação de lista por número) e verifica-se se o resto
+  se tornou menor que y x j. Assim que isso ocorrer, qual o 
+  algarismo a ser inserido no quociente?
+  
+  Após fazer tal inserção, como atualiza-se o resto?
+  
+  O processo se repete até que todos os algarismos do dividendo 
+  tenham sido processados. 
+ 
