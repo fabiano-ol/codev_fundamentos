@@ -1,9 +1,9 @@
 Subtração de listas
 1
 Escreva uma função que receba duas listas x, y, cada uma com os
-algarismos da representação decimal de certo número (x[0] é o
-dígito menos significativo da representação), e retorne uma
-lista com os algarismos da representação decimal da subtração
+algarismos da representação decimal de certo número (x[0], y[0]
+são os dígitos menos significativos das representações), e retorne 
+uma lista com os algarismos da representação decimal da subtração
 de tais números. 
 
 Ex: se x = [5, 2, 4]   (representando o número 425) 
