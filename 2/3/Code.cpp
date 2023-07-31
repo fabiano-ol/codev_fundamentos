@@ -2,14 +2,14 @@ K16+4=,-Hd;<,17V0f
 K16+4=,-Hd;<,41*V0f
 
 16<H+)4+';-+P16<H07:)YTH16<H516YTH16<H07:)ZTH16<H516ZQC
-	WW+7,->
+	WWH+7,->
 	16<H;-/YTH;-/Zc
 
 	;-/YHeHPP07:)YR^XQS516YQR^Xc
 	;-/ZHeHPP07:)ZR^XQS516ZQR^Xc
 
 	:-<=:6H)*;P;-/YU;-/ZQc
-	WW+7,->
+	WWH+7,->
 E
 
 16<H5)16P>71,QC
