@@ -1,0 +1,14 @@
+- Na leitura de dados, temos três informações:
+
+  x = primeiro número lido
+  y = segundo número lido
+  op = caractere com a operação desejada
+  
+  Precisamos efetuar algum cálculo com x e y. 
+  
+  O cálculo específico a ser efetuado (soma, subtração, 
+  multiplicação ou divisão) depende de qual condição? 
+  
+  Como separar o programa em casos, de modo que, dependendo
+  de qual condição se verifique, um comando apropriado do 
+  programa, associado a tal condição, deva ser executado?

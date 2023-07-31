@@ -1,0 +1,32 @@
+K16+4=,-Hd;<,17V0f
+
+,7=*4-H78-:)+)7P16<H@TH16<HATH+0):H78QC
+	WW+7,->
+	,7=*4-H:-;8c
+
+	1.HP78HeeHOSOQHC
+		:-;8HeH@SAc
+	EH-4;-H1.HP78HeeHOUOQHC
+		:-;8HeH@UAc
+	EH-4;-H1.HP78HeeHOWOQHC
+		:-;8HeHP,7=*4-Q@WAc
+	EH-4;-HC
+		:-;8HeH@RAc
+	E
+
+	:-<=:6H:-;8c
+	WW+7,->
+E
+
+16<H5)16PQC
+	16<H@THAc
+	+0):H78c
+
+	?014-P;+)6.PJM,JTHN@QfXQC
+		;+)6.PJM,JTHNAQc
+		;+)6.PJ$6M+JTHN78Qc
+
+		8:16<.PJMXVY^/$6JTH78-:)+)7P@THATH78QQc
+	E
+	:-<=:6HXc
+E

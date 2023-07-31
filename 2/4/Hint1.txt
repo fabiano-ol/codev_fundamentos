@@ -1,0 +1,12 @@
+- Nesse exercício, devemos percorrer os dígitos do primeiro
+  número, verificando se é igual ao segundo número informado.
+  
+  Em uma variável do tipo cadeia (string) var1, podemos obter 
+  o primeiro caractere com var1[0], o segundo com var1[1], etc.
+  
+  Assim, pode-se pensar em uma solução que primeiro converta
+  o primeiro número informado em cadeia para, depois, percorrer
+  os seus dígitos.
+  
+  
+  
