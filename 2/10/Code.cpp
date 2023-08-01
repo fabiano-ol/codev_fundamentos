@@ -1,0 +1,28 @@
+K16+4=,-Hd;<,17V0f
+K16+4=,-Hd5)<0V0f
+
+*774H-0'x:157P476/H476/H16<H@QC
+	WWH+7,->
+	.7:HP16<H1HeHZcH1HdeH;9:<P@QcH1SSQC
+	HHHH1.HP@M1HeeHXQHC
+			:-<=:6H.)4;-c
+	HHHHE
+	E
+
+	:-<=:6HP@feZQc
+	WWH+7,->
+E
+	
+16<H5)16PQC
+	476/H476/H16<H@c
+
+	?014-P;+)6.PJM44,JTHN@QfXQC
+	HHHH1.HP-0'x:157P@QQHC
+			8:16<.PJx:157$6JQc
+	HHHHEH-4;-HC
+			8:16<.PJk7587;<7$6JQc
+	HHHHE
+	E
+
+	:-<=:6HXc
+E

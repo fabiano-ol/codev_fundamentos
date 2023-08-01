@@ -1,0 +1,4 @@
+Verificar número primo
+1
+Escreva uma função que recebe um natural x e retorna um valor
+lógico, indicando se x é primo. 
