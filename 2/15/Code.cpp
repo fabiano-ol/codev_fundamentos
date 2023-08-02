@@ -1,0 +1,40 @@
+K16+4=,-Hd;<,17V0f
+K16+4=,-Hd5)<0V0f
+
+16<H:)1B-;P16<H)TH16<H*TH16<H+TH,7=*4-HNH:YTH,7=*4-HNH:ZQHC
+	WWH+7,->
+	,7=*4-H,-4<)c
+
+	,-4<)HeHP*R*U\R)R+Qc
+
+	1.HP,-4<)HfHXQHC
+		:YHeHPU*S;9:<P,-4<)QQWPZR)Qc
+		:ZHeHPU*U;9:<P,-4<)QQWPZR)Qc
+		:-<=:6HZc
+	EH-4;-H1.HP,-4<)HeeHXQHC
+		:YHeHUP,7=*4-Q*WPZR)Qc
+		:-<=:6HYc
+	EH-4;-HC
+		:-<=:6HXc
+	E
+	WWH+7,->
+E
+
+16<H5)16P>71,QC
+	16<H)TH*TH+cH16<H6:c
+	,7=*4-H:YTH:Zc
+
+	?014-HP;+)6.PJM,JTHN)QHfHXQHC
+		;+)6.PJM,JTHN*Qc
+		;+)6.PJM,JTHN+Qc
+
+		6:HeH:)1B-;P)TH*TH+TH:YTH:ZQc
+		8:16<.PJPJQc
+		1.HP6:HfeHYQH8:16<.PJMXVY^/JTH:YQcH-4;-H8:16<.PJUJQc
+		8:16<.PJTJQc
+		1.HP6:HeeHZQH8:16<.PJMXVY^/JTH:ZQcH-4;-H8:16<.PJUJQc
+		8:16<.PJQ$6JQc
+	E
+
+	:-<=:6HXc
+E
