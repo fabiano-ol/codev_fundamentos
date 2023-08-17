@@ -1,0 +1,13 @@
+Soma de listas
+1
+Escreva uma função que receba duas listas x, y, cada uma com os
+algarismos da representação decimal de certo número (x[0], y[0]
+são os dígitos menos significativos das representações), e retorne 
+uma lista com os algarismos da representação decimal da soma de 
+tais números. 
+
+Ex: se x = [8,5,9]   (representando o número 958)
+       y = [2,1,8]   (representando o número 812)
+    então a lista retornada deve ser
+           [0,7,7,1] (representando o número 1770)
+

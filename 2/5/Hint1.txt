@@ -1,0 +1,13 @@
+- De maneira geral, o algoritmo deve reproduzir o processo de
+  soma manual aprendido na escola. Isto é, devemos considerar
+  os números representados pelas listas x e y dígito a dígito,
+  do menos significativo ao mais signiticativo (unidade, dezena,
+  centena, etc). 
+  
+  Para tanto, pode-se utilizar o comando iterativo para iterar
+  sobre cada um dos dígitos. Cada iteração deve produzir um dígito
+  da lista resultante. Quantas iterações serão necessárias?
+  
+  Lembre-se que quando estamos somando dígito a dígito, há a 
+  possibilidade do "vai um", que leva um incremento na soma do
+  próximo para de dígitos.
