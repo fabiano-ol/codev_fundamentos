@@ -1,7 +1,5 @@
 Posição do ponto em relação à reta
 1
-Posição do ponto em relação à reta
-1
 Elabore uma função que receba dois valores a,b representando a
 equação y = ax + b de uma reta no plano cartesiano, além de um
 tupla (x,y) representando as coordenadas de um ponto do plano,

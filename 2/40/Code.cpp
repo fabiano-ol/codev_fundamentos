@@ -1,0 +1,27 @@
+K16+4=,-Hd;<,17V0f
+
+*774H8-:.-1<7P16<H6QHC
+	WWH+7,->
+	16<H1TH;75)c
+	
+	;75)HeHXc
+	
+	.7:HP1HeHYcH1HdH6cH1SSQHC
+		1.HP6HMH1HeeHXQHC
+			;75)HeH;75)HSH1c
+		E
+	E
+	
+	:-<=:6HP;75)HeeH6Qc
+	WWH+7,->
+E
+	
+16<H5)16PQC
+	16<H6c
+	
+	?014-HP;+)6.PJM,JTHN6QfXQHC
+		8:16<.PJM,$6JTH8-:.-1<7P6QQc
+	E
+	
+	:-<=:6HXc
+E
