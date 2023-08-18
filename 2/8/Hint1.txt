@@ -1,0 +1,16 @@
+- De maneira geral, o algoritmo deve reproduzir o processo de
+  multiplicação manual aprendido na escola. Isto é, devemos
+  considerar os números representados pelas listas x e y dígito
+  a dígito, do menos significativo ao mais signiticativo (unidade,
+  dezena, centena, etc).
+  
+  Para tanto, considere uma iteração sobre uma variável i = 0, 
+  1, ..., len(y), cada iteração correspondendo a multiplicação
+  do número x pelo número y[i]. Um exercício anterior pode ajudar
+  a realizar essa multiplicação.
+  
+  Note que cada multplicação dessas produzirá uma parcela do
+  somatório final que ocorre no processo manual da multiplicação.
+  Considere utilizar um outro exercício anterior para acumular o
+  valor das parcelas dessa soma.
+  
