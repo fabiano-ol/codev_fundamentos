@@ -1,0 +1,4 @@
+- Como percorrer a cadeia de caracteres de trás para frente?
+
+  Nessa iteração, e se cada caractere da vez for guardado em 
+  uma lista auxiliar? Isso ajudaria?
