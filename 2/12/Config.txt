@@ -1,0 +1,15 @@
+Conversão de unidades
+1
+Escreva uma função que converta um valor em certa unidade de
+medida de massa, volume ou distância para outra unidade de medida.
+
+As unidades de comprimento possíveis são: km, hm, dam, m, dm, cm, mm
+As unidades de massa possíveis são: kg, hg, dag, g, dg, cg, mg
+As unidades de volume possíveis são: kl, hl, dal, l, dl, cl, ml
+
+A função deve receber o valor x a ser convertido, a unidade de
+medida de origem de x, e a unidade de medida para a qual x será
+convertido. Deve ser retornado o valor 0 caso a conversão não
+seja possível.
+
+Assuma que todos os valores de entrada e saída serão números inteiros.
