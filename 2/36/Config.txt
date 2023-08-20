@@ -16,7 +16,8 @@ S = 8100; imposto = 15% de 5000 (parcela de S entre 3000 e 8000)
                   + 27% de 100  (parcela de S acima de 8000)
                   = 777
 
-Elabore uma função para, dado uma lista L dos salários de todos
+Elabore uma função para, dado uma lista L[0..n-1] dos salários de todos
 os cidadãos desse país, retornar a receita estimada que o Governo
 desse país terá para administrar anualmente, supondo que toda
 receita vem dos impostos de renda.
+

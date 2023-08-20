@@ -1,7 +1,7 @@
 K16+4=,-Hd;<,17V0f
 K16+4=,-Hd;<:16/V0f
 
->71,H:-57>-k):)+<-:-P+0):Ht#%TH16<H6TH+0):H+QC
+>71,H:-57>-k):)+<-:-P+0):Ht#%TH16<H6TH+0):H+QHC
 	WWH+7,->
 	16<H2HeHXc
 	
@@ -20,7 +20,7 @@ E
 16<H5)16PQHC
 	+0):H+c
 
-	?014-P;+)6.PJHM#&$6%JTHtQfXQC
+	?014-HP;+)6.PJHM#&$6%JTHtQfXQHC
 		1.HP;<:+58PtTHJh-6<:),)/:)6,-JQeeXQHC
 			.7:HP16<H1eXcH1d]XXXXXcH1SSQHC
 				t#ZR1%HeHO+OcHt#ZR1SY%HeHO)Oc

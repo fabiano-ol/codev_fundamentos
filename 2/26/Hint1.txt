@@ -1,9 +1,13 @@
 - Para percorrer os caracteres de uma cadeia L, pode-se empregar um
-  comando iterativo que varia uma variavél i entre 0 e |L|-1. Dentro
+  comando iterativo que varia uma variavél i entre 0 e n-1. Dentro
   da iteração, L[i] refere-se ao i-ésimo caractere da cadeia.
   
-  Podemos inicializar uma lista vazia L_novo, com a intenção de receber
-  todos caracteres que devem ser mantidos da cadeia L.
+  Se L[i] = c, tal caractere deve permancer. Caso contrário, deve ser
+  eliminado. Mas note que quando um caractere for mantido, ele talvez 
+  tenha que ser mudado de lugar, devido a caracteres anteriores que
+  foram eliminados.
+  
+  Como saber para qual posição um caractere a ser mantido deve ser
+  movido?
 
-  É necessário juntar eficientemente todos os caracteres inseridos em
-  L_novo em uma nova cadeia.
+  

@@ -1,9 +1,10 @@
 Multiplicação de lista por número
 1
-Escreva uma função que receba um vetor x com os algarismos da
+Escreva uma função que receba um vetor x[0..nx-1] com os algarismos da
 representação decimal de certo número (x[0] é o dígito menos
 significativo da representação), e um natural y entre 0 e 9, e
-retorne um vetor com os algarismos da representação decimal da
-multiplicação de tais números. Ex: se x = [5, 2, 4], y = 9, então
-o retorno deve ser [5, 2, 8, 3] (pois 425×9 = 3825). 
+retorne um vetor resp[0..n-1] com os algarismos da representação decimal da
+ultiplicação de tais números. Ex: se x = [5, 2, 4], nx = 3, y = 9, então
+deve-se fazer n=4 e retornar [5, 2, 8, 3] (pois 425×9 = 3825). 
+
 

@@ -1,11 +1,13 @@
 Divisão de listas
 1
-Escreva uma função que receba dois vetores x, y, cada um com os
-algarismos da representação decimal de certo número (x[0],y[0] 
-são os dígitos menos significativos das representações), e retorne 
-dois vetores, cada um com os algarismos da representação decimal dos 
-números que representam: (i) o quociente da divisão, e (ii) o resto 
-da divisão. Ex: se x = [5, 9, 8, 7, 3], y = [9, 8], então o retorno 
-deve ser os vetores [5, 2, 4] e [0, 7] (pois 37895 / 89 tem quociente 
-425 e resto 70). 
+Escreva uma função que receba dois vetores x[0..nx-1], y[0..ny-1], 
+cada um com os algarismos da representação decimal de certo número 
+(x[0],y[0] são os dígitos menos significativos das representações), 
+e retorne dois vetores quociente[0..nq-1] e resto[0..nr-1], cada um 
+com os algarismos da representação decimal dos números que representam: 
+(i) o quociente da divisão, e (ii) o resto da divisão. 
+
+Ex: se x = [5, 9, 8, 7, 3], nx = 5, y = [9, 8], ny = 2, então deve-se
+fazer quociente=[5, 2, 4], nq = 3, resto = [0, 7], nr = 2 (pois 
+37895 / 89 tem quociente 425 e resto 70). 
 

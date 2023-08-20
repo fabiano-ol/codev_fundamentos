@@ -1,7 +1,7 @@
 Troco em moedas
 1
-Seja M uma lista de moedas existentes em determinado país.
-Por exemplo, no Brasil, M = [1, 5, 10, 25, 50, 100] representaria
+Seja M[0..n-1] uma lista de moedas existentes em determinado país.
+Por exemplo, no Brasil, M = [1, 5, 10, 25, 50, 100], n=6 representaria
 que no país circula-se moedas de 1, 5, 10, 25, 50 e 100 centavos.
 Elabore uma função que receba tal lista M de moedas em circulação
 (que não necessariamente é a lista anterior, dada a título de

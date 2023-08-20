@@ -1,5 +1,5 @@
 Contar positivos e negativos
 1
-Escreva uma função que receba de entrada uma lista de inteiros,
-e retorne uma tupla (qp, qn), onde qp e qn representam a
-quantidade de inteiros positivos e negativos, respectivamente.
+Escreva uma função que receba de entrada um vetor lista[0..n-1] 
+de inteiros, e retorne dois inteiros pos, neg, onde pos e neg representam 
+respectivamente a quantidade de inteiros positivos e negativos no vetor.

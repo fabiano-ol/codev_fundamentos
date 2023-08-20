@@ -1,9 +1,8 @@
 - Considere o emprego de uma variável responsável por guardar o valor 
-  da maior nota, e de uma lista para armazenar as matrículas que 
-  possuem tal maior nota.
+  da maior nota.
   
-  Para computar tais valores, pode-se percorrer a lista N a fim de 
-  ler as notas. Para tanto, pode-se iterar uma variável i=0,...,|N|-1. 
+  Para computar tal valor, pode-se percorrer a lista N a fim de 
+  ler as notas. Para tanto, pode-se iterar uma variável i=0,...,n-1. 
   Isso será útil para conseguir acessar tanto a nota N[i] quanto a 
   matrícula M[i] de um determinado aluno. 
   

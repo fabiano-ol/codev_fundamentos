@@ -1,4 +1,4 @@
-- Na física, qual tipo de movimento é caracterizado pela
+- Na Física, qual tipo de movimento é caracterizado pela
   descrição do enunciado? 
   
   Existe alguma fórmula para calcular a variação da 

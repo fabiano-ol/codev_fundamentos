@@ -1,4 +1,4 @@
-- Primeiramente, deve-se inicializar uma lista vazia, responsável
+- Primeiramente, deve-se inicializar uma vetor, responsável
   por armazenar a resposta do exercício.
   
   Em seguida, devemos através de um comando de repetição, 

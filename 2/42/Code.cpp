@@ -7,7 +7,7 @@ K16+4=,-Hd5)<0V0f
 	,7=*4-HAc
 EHx76<7c
 
-+0):H876<7':-<)P,7=*4-H)TH,7=*4-H*THx76<7H8QC
++0):H876<7':-<)P,7=*4-H)TH,7=*4-H*THx76<7H8QHC
 	WWH+7,->
 	+0):H:-;8c
 	,7=*4-H,1.HeH)HRH8V@HSH*HUH8VAc
@@ -23,7 +23,7 @@ EHx76<7c
 	WWH+7,->
 E
 
-16<H5)16PQC
+16<H5)16PQHC
 	,7=*4-H)TH*c
 	x76<7H8c
 	

@@ -1,5 +1,6 @@
-- Como percorrer as duas listas de forma que a cada iteração
-  seja avaliado se o número em questão é o positivo ou negativo?
+- Deve-se percorrer o vetor de números recebido pela função.
+  Para cada elemento, deve-se avaliar através de um comando
+  condicional se o número da vez é positivo ou negativo,
+  acrescentando 1 ao respectivo contador cada vez que for
+  detectado um número positivo ou negativo.
   
-  Como realizar a contagem dos números positivos e negativos em
-  cada iteração?

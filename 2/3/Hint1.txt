@@ -3,4 +3,4 @@
   
   Uma vez obtido o total de segundos de um horário com a
   primeira hora do relógio, como podemos descobrir quantos
-  segundos existem entre esses dois horários?
+  segundos existem entre dois horários?

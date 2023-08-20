@@ -5,7 +5,7 @@
   dezena, centena, etc).
   
   Para tanto, considere uma iteração sobre uma variável i = 0, 
-  1, ..., len(y), cada iteração correspondendo a multiplicação
+  1, ..., ny, cada iteração correspondendo a multiplicação
   do número x pelo número y[i]. Um exercício anterior pode ajudar
   a realizar essa multiplicação.
   

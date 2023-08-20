@@ -1,7 +1,7 @@
 K16+4=,-Hd;<,17V0f
 K16+4=,-Hd;<,41*V0f
 
-476/H476/H16<H.1*76)++1P16<HvQC
+476/H476/H16<H.1*76)++1P16<HvQHC
 	WWH+7,->
 	1.HPvHdeHZQHC
 		:-<=:6HYc
@@ -22,7 +22,7 @@ K16+4=,-Hd;<,41*V0f
 	WWH+7,->
 E
 
-16<H5)16P>71,QC
+16<H5)16PQHC
 	16<Hvc
 	
 	?014-HP;+)6.PJM,JTHNvQfXQHC

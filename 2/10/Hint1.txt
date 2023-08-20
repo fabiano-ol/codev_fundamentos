@@ -5,9 +5,9 @@
   verifica o resto das divisões de todos os números de 2 até 
   certo limite. 
   
-  Um limite natural seria n-1. Mas na verdade, pode-se apertar
+  Um limite natural seria x-1. Mas na verdade, pode-se apertar
   bastante esse limite. Qual é o menor limite que podemos usar que
-  possui a seguinte propriedade: caso não haja divisor de n entre 
-  2 e tal limite, então certamente n é primo?
+  possui a seguinte propriedade: caso não haja divisor de x entre 
+  2 e tal limite, então certamente x é primo?
 
 

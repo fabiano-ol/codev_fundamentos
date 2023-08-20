@@ -1,11 +1,11 @@
-- A solução a seguinte define duas listas, inicialmente vazias,
-  chamadas digamos caracteres_encontrados e contagem_caracteres, 
-  para armazenar respectivamente os caracteres distintos 
-  encontrados na cadeia de entrada P e o número de ocorrências de 
-  cada um, de modo que contagem_caracteres[i] armazena o número
-  de ocorrências do caractere caracteres_encontrados[i] lidos em
-  P. Por exemplo, se a entrada for P = [a,b,c,d,b,d], a ideia é 
-  processar cada caractere de P para produzir:
+- A solução a seguinte define duas listas (implementados como vetores), 
+  inicialmente vazias, chamadas digamos caracteres_encontrados e 
+  contagem_caracteres, para armazenar respectivamente os caracteres 
+  distintos encontrados na cadeia de entrada P e o número de ocorrências 
+  de cada um, de modo que contagem_caracteres[i] armazena o número de 
+  ocorrências do caractere caracteres_encontrados[i] lidos em P. Por 
+  exemplo, se a entrada for P = [a,b,c,d,b,d], a ideia é processar cada 
+  caractere de P para produzir:
 
   caracteres_encontrados = [a,b,c,d]
   contagem_caracteres = [1,2,1,2]

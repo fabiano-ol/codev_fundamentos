@@ -1,4 +1,8 @@
-- Como percorrer a cadeia de caracteres de trás para frente?
-
-  Nessa iteração, e se cada caractere da vez for guardado em 
-  uma lista auxiliar? Isso ajudaria?
+- Deve-se percorrer L tanto to início para o final, quanto
+  do final para o início. Digamos que i percorre L nas posições
+  i=0,1,... e j percorre L nas posições j=n-1,n-2,.... 
+  
+  A cada iteração, o que devemos fazer com L[i] e L[j]?
+  
+  Qual a condição de parada?
+  
