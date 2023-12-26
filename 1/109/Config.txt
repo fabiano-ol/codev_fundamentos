@@ -4,7 +4,8 @@ Escreva uma função que receba duas listas x, y, cada uma com os
 algarismos da representação decimal de certo número (x[0],y[0] 
 são os dígitos menos significativos das representações), e retorne 
 uma tupla com duas listas, cada uma com os algarismos da representação 
-decimal dos números que representam: (i) o quociente da divisão, e 
-(ii) do resto da divisão. Ex: se x = [5, 9, 8, 7, 3], y = [9, 8], então o retorno
-deve ser ([5, 2, 4], [0, 7]) (pois 37895 / 89 tem quociente 425 e resto 70). 
+decimal dos números que representam: (i) o quociente da divisão de x por 
+y, e (ii) do resto dessa divisão. Ex: se x = [5, 9, 8, 7, 3], y = [9, 8], 
+então o retorno deve ser ([5, 2, 4], [0, 7]) (pois 37895 / 89 tem 
+quociente 425 e resto 70). 
 
